@@ -1,0 +1,7 @@
+ultralytics
+opendatasets
+kaggle
+torch
+opencv-python
+numpy
+matplotlib
